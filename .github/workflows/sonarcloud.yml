@@ -1,4 +1,4 @@
-name: sonarcloud
+name: sonarcloud workflow
 on:
   push:
     branches:
